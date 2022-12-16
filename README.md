@@ -46,7 +46,7 @@ A Fila de funções foi implamentada para ser utilizada como componente do Alarm
 
 # Alarme
 
-O Alarme implementado tem como objetivo agendar e atulizar a funções a serem executadas em um sistema.
+O Alarme implementado tem como objetivo agendar e atualizar as funções a serem executadas em um sistema.
 
 ## Atributos
 
@@ -112,7 +112,7 @@ Nesta classe é implementado o Timer0 como visto no datasheet ATmega328P, que te
 
 # LinkedList
 
-Implementação da estrutura de dados: lista encadeada que pode ser ordenada e/ou relativa para um determinado tipo (char, Timer0::Microseconds, etc).
+Implementação da estrutura de dados: lista encadeada que pode ser ordenada e/ou relativa para um determinado tipo de dado (char, Timer0::Microseconds, etc).
 
 ## Atributos
 
